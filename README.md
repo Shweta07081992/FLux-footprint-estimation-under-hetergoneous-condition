@@ -1,4 +1,4 @@
-# FLux-footprint-estimation-under-hetergoneous-condition
+# Flux-footprint-estimation-under-hetergoneous-condition
 # README file 
 ## Sensitivity of analytical flux footprint models in diverse source-receptor configurations: A Field experimental study
 This README file describes the data used in the study that are obtained for EC flux tower. Raw data at 10 Hz frequency obtained from three synchronized EC towers were analyzed to estimate the fluxes using EddyPro software, version 6.2.1.
